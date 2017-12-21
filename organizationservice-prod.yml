@@ -1,5 +1,5 @@
-tracer.property:  "This is the ITG platform for the licensing service (tracer.property)"
-example.property: "This is the ITG platform for the licensing service (example.property)"
+tracer.property:  "This is the PROD platform for the organizations service (tracer.property)"
+example.property: "This is the PROD platform for the organizations service (example.property)"
 spring.database.driverClassName: "org.h2.Driver"
 spring.datasource.url: "jdbc:h2:file:c:/h2/eagle_eye_local"
 spring.datasource.username: "sa"
